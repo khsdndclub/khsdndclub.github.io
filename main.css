@@ -10,6 +10,14 @@ div.pageinfo {
     font-size: 25px;
 }
 
+div.announcement {
+    background-color: white;
+    color: black;
+    margin: 40px 35px 55px 35px;
+    padding: 30px;
+    font-size: 25px;
+}
+
 div.footer {
     background-color: white;
     color: black;
