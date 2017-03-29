@@ -1,7 +1,3 @@
-div.header {
-    width: 100%;
-}
-
 div.pageinfo {
     background-color: white;
     color: black;
@@ -19,7 +15,7 @@ div.announcement {
 }
 
 div.footer {
-    background-color: white;
+    background-color: lightgray;
     color: black;
     margin: 50px 0px 40px 0px;
     padding: 30px;
