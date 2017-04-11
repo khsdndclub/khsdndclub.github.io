@@ -14,6 +14,14 @@ div.announcement {
     font-size: 25px;
 }
 
+div.references {
+    background-color: white;
+    color: black;
+    margin: 40px 25px 60px 25px;
+    padding: 30px;
+    font-size: 25px;
+}
+
 .navbar {
 /*    font-size:30px;*/
 }
