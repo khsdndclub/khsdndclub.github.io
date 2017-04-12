@@ -9,7 +9,7 @@ div.pageinfo {
 div.announcement {
     background-color: white;
     color: black;
-    margin: 40px 25px 60px 25px;
+    margin: 40px 25px 40px 25px;
     padding: 30px;
     font-size: 25px;
 }
@@ -17,7 +17,7 @@ div.announcement {
 div.references {
     background-color: white;
     color: black;
-    margin: 40px 25px 60px 25px;
+    margin: 40px 25px 40px 25px;
     padding: 30px;
     font-size: 25px;
 }
